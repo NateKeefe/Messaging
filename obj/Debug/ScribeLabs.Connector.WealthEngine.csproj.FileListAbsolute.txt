@@ -1,0 +1,12 @@
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\ScribeLabs.Connector.WealthEngine.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\ScribeLabs.Connector.WealthEngine.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\obj\Debug\ScribeLabs.Connector.WealthEngine.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\obj\Debug\CDK.Resources.resources
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\obj\Debug\ScribeLabs.Connector.WealthEngine.csproj.GenerateResource.Cache
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\obj\Debug\ScribeLabs.Connector.WealthEngine.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\obj\Debug\ScribeLabs.Connector.WealthEngine.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\WealthEngine\bin\Debug\Scribe.Connector.Common.dll

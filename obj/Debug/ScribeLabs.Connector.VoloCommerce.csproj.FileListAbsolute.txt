@@ -1,0 +1,23 @@
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\ScribeLabs.Connector.Volo.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\Scribe.Connector.Common.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\obj\Debug\CDK.Resources.resources
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\obj\Debug\ScribeLabs.Connector.VoloCommerce.csproj.GenerateResource.Cache
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\obj\Debug\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\obj\Debug\ScribeLabs.Connector.Volo.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2017\Projects\ScribeLabs.Connector.VoloCommerce\obj\Debug\ScribeLabs.Connector.VoloCommerce.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\ScribeLabs.Connector.Volo.pdb
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Debug\ScribeLabs.Connector.VoloCommerce.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Debug\CDK.Resources.resources
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Debug\ScribeLabs.Connector.VoloCommerce.csproj.GenerateResource.Cache
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Debug\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Debug\ScribeLabs.Connector.Volo.pdb

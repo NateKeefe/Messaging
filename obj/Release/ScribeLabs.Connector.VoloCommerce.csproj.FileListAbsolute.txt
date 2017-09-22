@@ -1,0 +1,10 @@
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\ScribeLabs.Connector.Volo.pdb
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\GitHub\volocommerce\bin\Release\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Release\CDK.Resources.resources
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Release\ScribeLabs.Connector.VoloCommerce.csproj.GenerateResource.Cache
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Release\ScribeLabs.Connector.Volo.dll
+C:\Users\nkeefe\Documents\GitHub\volocommerce\obj\Release\ScribeLabs.Connector.Volo.pdb

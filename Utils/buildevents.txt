@@ -1,0 +1,8 @@
+Prebuild event
+==============
+CALL "$(SolutionDir)"\utils\prebuild.bat
+
+
+Postbuild event
+===============
+CALL "$(SolutionDir)"\utils\postbuild.bat

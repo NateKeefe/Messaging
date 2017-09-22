@@ -1,0 +1,13 @@
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\ScribeLabs.Connector.MyApp.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\ScribeLabs.Connector.MyApp.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Excel.4.5.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Scribe.Connector.Common.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Excel.4.5.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\obj\Debug\ScribeLabs.Connector.MyApp.csprojResolveAssemblyReference.cache
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\obj\Debug\ScribeLabs.Connector.MyApp.dll
+C:\Users\nkeefe\Documents\Visual Studio 2015\Projects\Skeleton Scribe Connector\Skeleton Connector\obj\Debug\ScribeLabs.Connector.MyApp.pdb
