@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace CDK.Objects.IncomingMessages
 {
-
     public class Rootobject
     {
         public Messages[] Property1 { get; set; }

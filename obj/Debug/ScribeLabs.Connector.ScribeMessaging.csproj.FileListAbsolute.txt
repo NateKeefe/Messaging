@@ -9,3 +9,14 @@ C:\Users\NKeefe\Documents\Visual Studio 2015\Projects\Agent Messaging\bin\Debug\
 C:\Users\NKeefe\Documents\Visual Studio 2015\Projects\Agent Messaging\bin\Debug\ScribeLabs.Connector.ScribeMessaging.pdb
 C:\Users\NKeefe\Documents\Visual Studio 2015\Projects\Agent Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.dll
 C:\Users\NKeefe\Documents\Visual Studio 2015\Projects\Agent Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.pdb
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\ScribeLabs.Connector.ScribeMessaging.dll
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\ScribeLabs.Connector.ScribeMessaging.pdb
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\Scribe.Core.ConnectorApi.dll
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\NKeefe\Documents\Messaging\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NKeefe\Documents\Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.csprojResolveAssemblyReference.cache
+C:\Users\NKeefe\Documents\Messaging\obj\Debug\CDK.Resources.resources
+C:\Users\NKeefe\Documents\Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.csproj.GenerateResource.Cache
+C:\Users\NKeefe\Documents\Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.dll
+C:\Users\NKeefe\Documents\Messaging\obj\Debug\ScribeLabs.Connector.ScribeMessaging.pdb

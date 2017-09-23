@@ -108,20 +108,20 @@
             switch (entityName)
             {
                 case "IncomingMessage":
-                var results = JsonConvert.DeserializeObject<Objects.IncomingMessages.Rootobject>(message);
-                    foreach (var webhook in results.Property1)
+                var results = JsonConvert.DeserializeObject<Objects.IncomingMessages.Messages[]>(message);
+                    foreach (var props in results.SelectMany(y => y.Message))
                     {
                         DataEntity dataEntity = new DataEntity(entityName);
                         PropertyInfo[] messageProperties = typeof(Objects.IncomingMessages.Message).GetProperties();
 
                         //add payload properties to data entity using reflection
-                        foreach (var customerProps in messageProperties)
+                        foreach (var fieldProps in messageProperties)
                         {
-                            if (webhook != null)
+                            if (props != null)
                             {
-                                if (customerProps.PropertyType.Namespace.ToString().StartsWith("System") && !customerProps.PropertyType.IsArray)
+                                if (fieldProps.PropertyType.Namespace.ToString().StartsWith("System") && !fieldProps.PropertyType.IsArray)
                                 {
-                                    dataEntity.Properties.Add(customerProps.Name.ToString(), customerProps.GetValue(webhook));
+                                    dataEntity.Properties.Add(fieldProps.Name.ToString(), fieldProps.GetValue(props));
                                 }
                             }
                         }
@@ -136,37 +136,6 @@
         public IEnumerable<DataEntity> ExecuteQuery(Query query)
         {
             throw new NotImplementedException();
-        }
-
-        public IEnumerable<DataEntity> GetData(string entityName, string json, Query query)
-        {
-            //Take the data returned from a payload, and deserialize it as an object
-            var results = JsonConvert.DeserializeObject<Objects.Customers.Rootobject>(json);
-
-            //      //should be deserializing objects and adding props dynamically based on entityName input
-            //      Type RootObjectType = Type.GetType(assemblyPrefix + entityName);
-            //      var resultsElement = Activator.CreateInstance(RootObjectType);
-            //      resultsElement = JsonConvert.DeserializeObject(json, RootObjectType
-
-            foreach (var cust in results.customers)
-            {
-                DataEntity dataEntity = new DataEntity(query.RootEntity.ObjectDefinitionFullName);
-                PropertyInfo[] customerProperties = typeof(Objects.Customers.Customer).GetProperties();
-
-                //add payload properties to data entity using reflection
-                foreach (var customerProps in customerProperties)
-                {
-                    if (cust != null)
-                    {
-                        if (customerProps.PropertyType.Namespace.ToString().StartsWith("System") && !customerProps.PropertyType.IsArray)
-                        {
-                            dataEntity.Properties.Add(customerProps.Name.ToString(), customerProps.GetValue(cust));
-                        }
-                    }
-                }
-                //return a dataEntity for each record in the payload
-                yield return dataEntity;
-            }
         }
 
         public MethodResult ExecuteMethod(MethodInput input)

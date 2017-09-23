@@ -13,8 +13,8 @@ namespace CDK.Objects.Messages
         public string Id { get; set; }
         public string AccountNumber { get; set; }
         public string Account { get; set; }
-        public DateTime DateTime { get; set; }
-        public int Int { get; set; }
+        public string DateTime { get; set; }
+        public string Int { get; set; }
         public string String { get; set; }
     }
 }
